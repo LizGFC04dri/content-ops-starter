@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Conoce el nuevo modo de hacre negocio
+      text: Conoce el nuevo modo de aprender
       color: text-dark
       type: TitleBlock
     subtitle: AI Universal
