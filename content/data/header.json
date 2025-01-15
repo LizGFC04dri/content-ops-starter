@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Globales",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
