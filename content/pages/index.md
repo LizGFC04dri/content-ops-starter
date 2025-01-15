@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: cOWqUI
+      text: C0W KEY
       color: text-dark
       styles:
         self:
