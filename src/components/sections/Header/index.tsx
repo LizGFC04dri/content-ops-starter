@@ -32,6 +32,7 @@ export default function Header(props) {
                 </Link>
                 <HeaderVariants {...props} />
             </div>
+            <script type="text/javascript" src="//cdn.evgnet.com/beacon/u5568l55556p23cp3e3n3n3h089558585/train_itsc/scripts/evergage.min.js"></script>
         </header>
     );
 }
